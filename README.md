@@ -1,6 +1,6 @@
 ## *stanCode* Projects
 Hello there!\
-This repository holds my programming projects done during the period of stanCode SC101 course.
+This repository holds my programming projects done during the period of stanCode SC001 and SC101 courses.
 
 ## Project Source Codes:
 * [Karel World].(https://github.com/shihjames/sc-projects/tree/master/stanCode_Projects/karel_world)
