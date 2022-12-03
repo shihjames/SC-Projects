@@ -17,7 +17,7 @@ Watch my *[DEMO VIDEOS!!!].(https://drive.google.com/drive/folders/1Gi3bn9qPW_gR
   * animation
 * [Breakout Game].(https://github.com/shihjames/sc-projects/tree/master/stanCode_projects/breakout_game)
   * animation & game designing
-* [Name Searching System].(https://github.com/shihjames/sc-projects/tree/master/stanCode_projects/name_searching%20system)
+* [Name Searching System].(https://github.com/shihjames/sc-projects/tree/master/stanCode_projects/name_searching_system)
   * data structure
 * [Boggle Game Solver].(https://github.com/shihjames/sc-projects/tree/master/stanCode_projects/boggle_game_solver)
   * recursive functions
