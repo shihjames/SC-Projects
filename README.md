@@ -15,7 +15,7 @@ Watch my *[DEMO VIDEOS!!!].(https://drive.google.com/drive/folders/1Gi3bn9qPW_gR
   * image processing
 * [My Drawing].(https://github.com/shihjames/sc-projects/tree/master/stanCode_projects/my_drawing)
   * animation
-* [Breakout Game].(https://github.com/shihjames/sc-projects/tree/master/stanCode_projects/break_out_game)
+* [Breakout Game].(https://github.com/shihjames/sc-projects/tree/master/stanCode_projects/breakout_game)
   * animation & game designing
 * [Name Searching System].(https://github.com/shihjames/sc-projects/tree/master/stanCode_projects/name_searching%20system)
   * data structure
